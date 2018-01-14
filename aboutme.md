@@ -1,16 +1,40 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to hire me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Glenn Lanzer III, however I go by Trey. I am a Full-stack JavaScript developer with experience in the following:
+* MERN Stack
+* MEAN Stack
+* JavaScript Frameworks/Libraries:
+  - React
+  - Vue.js
+  - AngularJS
+* Build Tools:
+  - Babel
+  - ESLint
+  - Yarn
+  - NPM
+  - Gulp
+* JavaScript Back-end Frameworks/Libraries:
+  - Express
+* Other Languages/Tools
+  - Git
+  - GitHub
+  - Python
+  - pip
+  - Ruby
+  - RubyGems
+  - Jekyll
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Work History
 
-What else do you need?
+**September 2015 - Recent**
+*Freelance*
 
-### my history
+**May 2015 - September 2015**
+*Witron Logistics*
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**July 2009 - April 2015**
+*Texas Energy Control Products*

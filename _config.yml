@@ -24,9 +24,10 @@ description: An awesome description of an awesome person!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Portfolio: "portfolio"
-  Blog: "blog"
-  Contact: "contact"
+  Resources:
+    - Portfolio: "portfolio"
+    - Blog: "blog"
+    - Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
